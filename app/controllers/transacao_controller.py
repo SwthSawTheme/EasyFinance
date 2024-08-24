@@ -2,6 +2,6 @@
 
 class TransacaoController(object):
 
-    def criar_transacao(valor:float, data: Date, descricao:str,tipo:TipoTransacao, categoria:Categoria):
+    def criar_transacao(valor:float, data, descricao:str,tipo, categoria):
         pass
 

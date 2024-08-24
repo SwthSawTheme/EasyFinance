@@ -6,7 +6,7 @@ class Conta(object):
         self.nome_conta = nome_conta
         self.saldo_inicial = 0
     
-    def adicionarTransacao(self,transacao:Transacao):
+    def adicionarTransacao(self,transacao):
         pass
 
     def calcularSaldoAtual(self):

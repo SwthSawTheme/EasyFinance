@@ -2,8 +2,8 @@
 
 class TransacaoView(object):
 
-    def mostrar_detalhes_transacao(transacao: Transacao):
+    def mostrar_detalhes_transacao(transacao):
         pass
 
-    def capturar_dados_transacao(): dict
+    def capturar_dados_transacao():
         pass
